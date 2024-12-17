@@ -1,5 +1,5 @@
 # Radhakrishna
 ALL ML projects
 <br>
-Author - Amit kumar Goswami(akg)
+Author - Amit kumar Goswami(AKG)
 
